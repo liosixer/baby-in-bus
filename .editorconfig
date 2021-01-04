@@ -13,7 +13,7 @@ root = true
 # 缩进样式=空格
 indent_style = space
 # 缩进大小=2
-indent_size = 4
+indent_size = 2
 
 
 # we recommend you to keep these unchanged
@@ -35,4 +35,4 @@ trim_trailing_whitespace = false
 # 缩进样式=空格
 indent_style = space
 # 缩进大小=2
-indent_size = 4
+indent_size = 2
